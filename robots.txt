@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeexidahzu.dengyujun.com/sitemap.xml
